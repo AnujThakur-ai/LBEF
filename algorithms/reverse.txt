@@ -1,0 +1,17 @@
+# write an algorithmsn to find reverse of given
+
+
+steps:  discription
+
+1: take number as input
+2: take digits counts in a variable by converting the input number into string.
+3: define variable and store 0(rev = 0), rem = (0)
+4: use loop up to the length stroed in step 2 to 0
+5: inside loop use
+ rem = input_num % 10
+ rev = rem * 10 +rem
+ input_num = input_num // 10
+
+6: display rev
+7: stop
+  

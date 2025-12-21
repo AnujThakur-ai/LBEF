@@ -1,0 +1,5 @@
+def leap_year():
+    y = 2024
+    print("Leap" if y % 4 == 0 else "Not")
+
+leap_year()

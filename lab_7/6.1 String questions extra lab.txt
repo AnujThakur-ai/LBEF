@@ -1,0 +1,57 @@
+1.	Reverse of the given String
+
+2.	Program to Reverse order of words of string
+
+	Eg: 
+         Input: Learning Python is very Easy
+         Output: Easy very is Python Learning
+
+3.	Program to Reverse internal content of each word.
+
+	Eg: 
+         Input: Learning Python is very Easy
+         Output: gninraeL nohtyP si yrev ysaE
+
+4.	Program to print characters of odd position and even position for the given String
+
+5.	Program to merge the characters of two string into a single string by taking characters alternatively
+
+	Eg: 
+         Input: Ravi and Teja
+         Output: RTaevjia
+
+6.	Write a Program to Sort the Characters of the String with the First Alphabet Symbols followed by Numeric Values
+ 	
+	Eg:
+  	 Input: B4A1D3 
+  	 Output: ABD134 
+
+7.      Write a Program for the following Requirement 
+        
+	Eg:
+  	 Input: a4b3c2 
+ 	 Output: aaaabbbcc 
+
+8.	Write a Program to Remove Duplicate Characters from the given Input String? 
+	
+	Eg:	
+	 Input: ABCDABBCDABBBCCCDDEEEF 
+	 Output: ABCDEF 
+
+9.	Write a Program to find the Number of Occurrences of each Character present in the given String? 	
+
+	Eg:
+	 Input: ABCABCABBCDE 
+	 Output: A-3, B-4, C-3, D-1, E-1 
+
+10.	 Write a Program to perform the following Task? 
+
+	Eg:
+	 Input: 'one two three four five six seven' 
+	 Output: 'one owt three ruof five xis seven' 
+
+
+
+
+
+
