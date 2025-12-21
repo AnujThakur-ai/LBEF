@@ -3,7 +3,7 @@
 from functools import reduce
 
 l = [1,2,3,11,22,44,112,453,123,55,345,645]
-addd = (reduce(lambda x, y: x + y, ll))
+addd = (reduce(lambda x, y: x + y, l))
 print("sum of list elements:", addd )
 
 mult = reduce(lambda x, y: x* y, l)
