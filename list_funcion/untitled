@@ -1,0 +1,47 @@
+#list function in list
+
+#list method
+
+
+l = [1,2,3,1,2,412,4,123]
+
+#list append
+l.append(100)
+
+print('list append\n',l)
+
+#shallow copy of the list
+
+a = l.copy()
+print('\nShallow copy of list\n:',a)
+
+#list count
+print('\nlist count\n:',l.cound(2))
+
+
+#list extend()
+print('\nextended list:\n',l.extend([2,3,54,55,56]))
+
+#list index()
+
+print('\nindex of 2:',l.index(2))
+
+#list pop it will remove the last element of list
+print('\nPop:\n', l.pop())
+
+#remove element from list
+print('\nRemove Element:\n',l.remove(2))
+
+
+#reverse the list
+print('\nReverse list:\n', l.reverse())
+
+
+#sort element of the list
+print('\nSorted list:\n', l.sort())
+
+#insert into specified position
+print('\nInserted 99 in index 2:\n',l.insert(2, 99))
+
+#clear the list
+print('\nCleared List:\n', l.clear())
