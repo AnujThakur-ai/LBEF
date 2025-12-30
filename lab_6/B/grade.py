@@ -1,4 +1,4 @@
-# function to print the grade of student
+ # function to print the grade of student
 
 #mark function
 def mark():

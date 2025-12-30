@@ -9,5 +9,5 @@ words = "Magic#Mirror#on#the#wall,#who#is#the#fairest#one#of#all?"
 splited = words.split('#')
 
 for word in splited:
-    print(word)
+    print(word, end= " ")
     

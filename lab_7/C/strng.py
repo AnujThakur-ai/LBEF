@@ -5,4 +5,4 @@ word = "string"
 for char in word:
     if char == 'i':
         continue
-    print(char)
+    print(char, end=' ')
