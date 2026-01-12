@@ -1,0 +1,2 @@
+print([x ** 2 for x in [1,2,3,4,5,6,7] if x % 2 == 0][2]) # --> [2] is used to access the 3rd element of the resulting list
+#print([x ** 2 for x in [1,2,3,4,5,6,7] if x % 2 == 0[2]])# throw an error typeError: 'int' object is not subscriptable
