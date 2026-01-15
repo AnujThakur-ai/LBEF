@@ -1,0 +1,2 @@
+My name is Anuj Kumar Thakur.
+ This is a another method to open via python.
