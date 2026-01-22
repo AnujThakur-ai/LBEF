@@ -1,0 +1,11 @@
+#trying to store the data in csv format
+name = input('what is your name: ')
+age = int(input('what is your age: '))
+
+with open('student.csv','a') as cs:
+    
+    cs.write(f'{name} \t {age}\n')
+print('Name\t Age')   
+with open('student.csv','r') as cs:
+    print(cs.read())
+    
